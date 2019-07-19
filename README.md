@@ -1,2 +1,2 @@
-# notes_relation-_extraction-_journals
+# notes_relation_extraction_journals
 关系提取论文提取
